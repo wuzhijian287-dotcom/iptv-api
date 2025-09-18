@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-18 18:19:34,https://www.freetv.top/migu/608807420.m3u8?migutoken=ba552a2083efcc0e9cac8e15f58b13e090dab068fdb3997d064fd7e6e5f165824a5caaa619f3447f77d75712ad65bd76cb137741f46b0a28cb1afc020328b9b4ec1d3f8e8fed80beb6245b6544$订阅源
+2025-09-19 06:18:20,https://www.freetv.top/migu/608807420.m3u8?migutoken=ba552a2083efcc0e9cac8e15f58b13e090dab068fdb3997d064fd7e6e5f165824a5caaa619f3447f77d75712ad65bd76cb137741f46b0a28cb1afc020328b9b4ec1d3f8e8fed80beb6245b6544$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=ba552a2083efcc0e9cac8e15f58b13e090dab068fdb3997d064fd7e6e5f165824a5caaa619f3447f77d75712ad65bd76cb137741f46b0a28cb1afc020328b9b4ec1d3f8e8fed80beb6245b6544$订阅源
@@ -51,8 +51,6 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
 湖南卫视,https://mursor.ottiptv.cc/mcp/hunan.m3u8$订阅源
 北京卫视,https://mursor.ottiptv.cc/mcp/beijing.m3u8$订阅源
-北京卫视,http://cc02.tv12.xyz/1.m3u8$订阅源
-北京卫视,http://cc02.tv12.xyz/1.m3u8$订阅源
 湖北卫视,https://www.freetv.top/migu/738906825.m3u8?migutoken=959fce041a0fecbe0bdf2b300a4d13c986661650b877856aabade568eaf9f549143a65c212325030ca99ac119635c6c4daa7c93ba8863508e6aeef100965a31ae4a8152b02337aea453f42988d$订阅源
 湖北卫视,https://mursor.ottiptv.cc/mcp/hubei.m3u8$订阅源
 黑龙江卫视,https://mursor.ottiptv.cc/mcp/heilongjiang.m3u8$订阅源
@@ -89,14 +87,15 @@ CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e383
 山东卫视,https://mursor.ottiptv.cc/mcp/shandong.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
+山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3899cd1daaa04f812c6d4b13126e3c00ad177635abc5559f1b596e814ff8eb3d745e7bd40b881206a2852a5ed041ca424112cf1d9b385c72ea9de42c8d86f45227af0f51a8b4f4c18a038a8e6d$订阅源
 陕西卫视,https://mursor.ottiptv.cc/mcp/shanxiws.m3u8$订阅源
 深圳卫视,https://mursor.ottiptv.cc/mcp/shenzheng.m3u8$订阅源
 天津卫视,https://mursor.ottiptv.cc/mcp/tianjing.m3u8$订阅源
 西藏卫视,https://mursor.ottiptv.cc/mcp/xizang.m3u8$订阅源
-西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源
-西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
+西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源
+西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源
 新疆卫视,https://mursor.ottiptv.cc/mcp/xinjiang.m3u8$订阅源
 新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
 云南卫视,https://mursor.ottiptv.cc/mcp/yunnan.m3u8$订阅源
