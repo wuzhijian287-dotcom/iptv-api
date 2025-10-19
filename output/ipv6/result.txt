@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-19 06:11:59,https://www.freetv.top/migu/608807420.m3u8?migutoken=184a95f0cdaaf7c1f3c7b4cd06d432af7234562e68074726eac10898c158cf1eea49819ced71b5e3d2f3ea0023ff71f8062e39a0a92ffd236a2c1ef4a30ca7f3cb03548908d23e6c6d685437e2$订阅源
+2025-10-19 18:14:19,https://www.freetv.top/migu/608807420.m3u8?migutoken=184a95f0cdaaf7c1f3c7b4cd06d432af7234562e68074726eac10898c158cf1eea49819ced71b5e3d2f3ea0023ff71f8062e39a0a92ffd236a2c1ef4a30ca7f3cb03548908d23e6c6d685437e2$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=184a95f0cdaaf7c1f3c7b4cd06d432af7234562e68074726eac10898c158cf1eea49819ced71b5e3d2f3ea0023ff71f8062e39a0a92ffd236a2c1ef4a30ca7f3cb03548908d23e6c6d685437e2$订阅源
@@ -11,9 +11,9 @@ CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=35ee1318e92e1d47aa4e
 CCTV-3,https://jzb.wwkejishe.top/?id=580$订阅源
 CCTV-4,https://www.freetv.top/migu/631780421.m3u8?migutoken=fefc6a44400a0dd448699ae0ce3d6e2c5a0f49b8d48adb36e747c4fbab039337eb3244f9951acbddaf26b7bf51597a7d1b43c8845e67fd5914ece875dcad325bb388200bc0f12fdff727d03e2d$订阅源
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903$订阅源
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-5,https://jzb.wwkejishe.top/?id=582$订阅源
+CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
+CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2$订阅源
 CCTV-5+,https://jzb.wwkejishe.top/?id=583$订阅源
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=ee6c3d925888b2938ca61a2c94d84986ff15ec0fedd3e1e35bcf4ffada20fbeead007033b33efc350632bb959d9bee9da36bac91ec304513f63032fb12e8f570416fc533ede1c4ef94197eb07c$订阅源
@@ -74,6 +74,7 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 河南卫视,https://www.freetv.top/migu/790187291.m3u8?migutoken=3fa5112cca2c2ce74028510dfbaacbc2dce25969982adc457060f0def4c56e2d5efdeb3d0e4ef181a2255dd07c1e7723b5bee70da78172e50618743c5eac8808279282803f9488156ec4d7dbac$订阅源
 河南卫视,https://jzb.wwkejishe.top/?id=616$订阅源
 吉林卫视,https://www.freetv.top/migu/947472500.m3u8?migutoken=18d6d17bc9f6d0621b56e251449da66bb58876d41330b568d80f5262c9496615d17187c2eb3404fcf6c7110bd098cb97ef096ba5ee0db8bc36853d5e90104624843156a3bbce9cd841e94e3b54$订阅源
+吉林卫视,https://jzb.wwkejishe.top/?id=601$订阅源
 江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=89adf8885d4f1f9dee34a4e8d60f187e5b071ac9b79001260a0b66da9027070e0b861510da93cb5190da002ca87645e63e57bada2c65f959e8ef81f693c239f194d683ba2083252bbb0caeab96$订阅源
 江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=fddcc05dc0245329d3208607a5b1f5a1980bc31a7ced510e345af6cc68f5b86d2d9178b45706a0b6a0ceddc82ce06e53375cfedbc96fd0b00c12195c7d77b6f23811a67970bcfeb47629aa5aa6$订阅源
 青海卫视,https://www.freetv.top/migu/947472506.m3u8?migutoken=c740fc58e518a315b254873398c630ca506a9de327397b5e27a668d9c1e170b6512a1834dab3229ddc39b5a61c2ea42fae6d196a11c6d0e5e212522e6edf197f65ad9addf0b540aa6c9d4fcd3e$订阅源
@@ -87,5 +88,5 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 天津卫视,https://jzb.wwkejishe.top/?id=611$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
-新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
 新疆卫视,https://jzb.wwkejishe.top/?id=623$订阅源
+新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
