@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-22 18:15:48,https://httop.top/tv-cctv3$订阅源
+2025-10-23 06:13:34,https://httop.top/tv-cctv3$订阅源
 
 📺央视频道,#genre#
 CCTV-3,https://httop.top/tv-cctv3$订阅源
@@ -19,8 +19,6 @@ CCTV-6,https://httop.top/tv-cctv6$订阅源
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8$订阅源
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8$订阅源
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
-东方卫视,http://124.88.238.50:82/hls/15/index.m3u8$订阅源
-东方卫视,http://124.88.238.50:82/hls/15/index.m3u8$订阅源
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8$订阅源
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8$订阅源
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
@@ -30,6 +28,7 @@ CCTV-6,https://httop.top/tv-cctv6$订阅源
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
 河南卫视,http://124.88.238.50:82/hls/20/index.m3u8$订阅源
+河南卫视,http://124.88.238.50:82/hls/20/index.m3u8$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
 吉林卫视,http://pa.kuangdeng.top:8081/hls/31/index.m3u8$订阅源
 吉林卫视,http://pa.kuangdeng.top:8081/hls/31/index.m3u8$订阅源
@@ -37,8 +36,6 @@ CCTV-6,https://httop.top/tv-cctv6$订阅源
 江苏卫视,http://pa.kuangdeng.top:8081/hls/19/index.m3u8$订阅源
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8$订阅源
 江西卫视,http://pa.kuangdeng.top:8081/hls/30/index.m3u8$订阅源
-江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8$订阅源
-江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8$订阅源
 辽宁卫视,http://pa.kuangdeng.top:8081/hls/27/index.m3u8$订阅源
 辽宁卫视,http://124.88.238.50:82/hls/21/index.m3u8$订阅源
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8$订阅源
