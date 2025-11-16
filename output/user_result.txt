@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-16 18:13:59,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq$订阅源
+2025-11-17 06:12:42,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq$订阅源
@@ -13,9 +13,8 @@ CCTV-3,http://120.46.223.160/PHP/MG.php?id=624878271$订阅源
 CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq$订阅源
 CCTV-4,http://120.46.223.160/PHP/MG.php?id=631780421$订阅源
 CCTV-5,http://120.46.223.160/PHP/MG.php?id=641886683$订阅源
-CCTV-5,http://112.6.239.227:8207/hls/5/index.m3u8$订阅源
-CCTV-5,http://112.6.239.227:8207/hls/5/index.m3u8$订阅源
 CCTV-5+,http://120.46.223.160/PHP/MG.php?id=641886773$订阅源
+CCTV-5+,http://112.6.239.227:8207/hls/6/index.m3u8$订阅源
 CCTV-5+,http://112.6.239.227:8207/hls/6/index.m3u8$订阅源
 CCTV-6,http://120.46.223.160/PHP/MG.php?id=624878396$订阅源
 CCTV-6,http://112.6.239.227:8207/hls/7/index.m3u8$订阅源
