@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-20 18:15:36,http://bxtv.3a.ink/migu.php?id=cctv3$订阅源
+2025-11-21 06:13:52,http://bxtv.3a.ink/migu.php?id=cctv3$订阅源
 
 📺央视频道,#genre#
 CCTV-3,http://bxtv.3a.ink/migu.php?id=cctv3$订阅源
@@ -11,9 +11,8 @@ CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6$订阅源
 CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7$订阅源
 CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8$订阅源
 CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9$订阅源
-CCTV-9,http://112.6.239.227:8207/hls/10/index.m3u8$订阅源
-CCTV-9,http://112.6.239.227:8207/hls/10/index.m3u8$订阅源
 CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10$订阅源
+CCTV-10,http://112.6.239.227:8207/hls/11/index.m3u8$订阅源
 CCTV-10,http://112.6.239.227:8207/hls/11/index.m3u8$订阅源
 CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11$订阅源
 CCTV-11,http://112.6.239.227:8207/hls/12/index.m3u8$订阅源
@@ -28,10 +27,10 @@ CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17$订阅源
 📡卫视频道,#genre#
 广东卫视,http://112.6.239.227:8207/hls/22/index.m3u8$订阅源
 浙江卫视,http://112.6.239.227:8207/hls/16/index.m3u8$订阅源
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$订阅源
 湖北卫视,http://112.6.239.227:8207/hls/25/index.m3u8$订阅源
@@ -48,9 +47,9 @@ CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17$订阅源
 海南卫视,http://112.6.239.227:8207/hls/24/index.m3u8$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
 河北卫视,http://112.6.239.227:8207/hls/28/index.m3u8$订阅源
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$订阅源
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
 河南卫视,http://112.6.239.227:8207/hls/31/index.m3u8$订阅源
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8$订阅源
 吉林卫视,http://112.6.239.227:8207/hls/30/index.m3u8$订阅源
