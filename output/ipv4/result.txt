@@ -1,47 +1,35 @@
 🕘️更新时间,#genre#
-2025-11-22 18:13:30,http://bxtv.3a.ink/migu.php?id=cctv3$订阅源
+2025-11-23 06:12:41,http://bxtv.3a.ink/migu.php?id=cctv3$订阅源
 
 📺央视频道,#genre#
 CCTV-3,http://bxtv.3a.ink/migu.php?id=cctv3$订阅源
 CCTV-3,http://bxtv.3a.ink/migu.php?id=cctv3$订阅源
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq$订阅源
-CCTV-4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=cq$订阅源
 CCTV-4,http://bxtv.3a.ink/migu.php?id=cctv4$订阅源
 CCTV-5,http://bxtv.3a.ink/migu.php?id=cctv5$订阅源
 CCTV-5+,http://bxtv.3a.ink/migu.php?id=cctv5p$订阅源
 CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6$订阅源
-CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq$订阅源
 CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7$订阅源
 CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8$订阅源
-CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq$订阅源
 CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9$订阅源
-CCTV-10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq$订阅源
 CCTV-10,http://bxtv.3a.ink/migu.php?id=cctv10$订阅源
 CCTV-11,http://bxtv.3a.ink/migu.php?id=cctv11$订阅源
-CCTV-11,http://112.6.239.227:8207/hls/12/index.m3u8$订阅源
-CCTV-11,http://112.6.239.227:8207/hls/12/index.m3u8$订阅源
-CCTV-12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq$订阅源
 CCTV-12,http://bxtv.3a.ink/migu.php?id=cctv12$订阅源
 CCTV-12,http://112.6.239.227:8207/hls/13/index.m3u8$订阅源
-CCTV-13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=gq$订阅源
+CCTV-12,http://112.6.239.227:8207/hls/13/index.m3u8$订阅源
 CCTV-13,http://bxtv.3a.ink/migu.php?id=cctv13$订阅源
 CCTV-13,http://112.6.239.227:8207/hls/14/index.m3u8$订阅源
 CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14$订阅源
 CCTV-15,http://bxtv.3a.ink/migu.php?id=cctv15$订阅源
-CCTV-17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=gq$订阅源
 CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17$订阅源
 
 📡卫视频道,#genre#
 广东卫视,http://112.6.239.227:8207/hls/22/index.m3u8$订阅源
 浙江卫视,http://112.6.239.227:8207/hls/16/index.m3u8$订阅源
-浙江卫视,http://60.16.0.216:5757/hls/22/index.m3u8$订阅源
-浙江卫视,http://60.16.0.216:5757/hls/22/index.m3u8$订阅源
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
-北京卫视,http://106.53.99.30/tv/bj.php?id=bjws4k$订阅源
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$订阅源
 湖北卫视,http://112.6.239.227:8207/hls/25/index.m3u8$订阅源
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8$订阅源
