@@ -1,26 +1,24 @@
 🕘️更新时间,#genre#
-2025-12-10 18:17:12,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
+2025-12-11 06:15:22,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
-CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
+CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$订阅源
 CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$订阅源
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub$订阅源
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$订阅源
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$订阅源
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub$订阅源
-CCTV-9,https://play.kankanlive.com/live/1698423397390920.m3u8$订阅源
-CCTV-9,https://play.kankanlive.com/live/1698423397390920.m3u8$订阅源
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$订阅源
+CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8$订阅源
 CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8$订阅源
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140$订阅源
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140$订阅源
 CCTV-11,https://play.kankanlive.com/live/1698423476198918.m3u8$订阅源
 CCTV-12,http://183.220.107.138:4022/rtp/239.11.0.113:5140$订阅源
 CCTV-12,https://play.kankanlive.com/live/1698423511884917.m3u8$订阅源
+CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$订阅源
 CCTV-13,http://183.220.107.138:4022/rtp/239.11.0.24:5140$订阅源
 CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8$订阅源
-CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$订阅源
 CCTV-14,http://183.220.107.138:4022/rtp/239.11.0.114:5140$订阅源
 CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8$订阅源
 CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140$订阅源
@@ -58,9 +56,8 @@ CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8$订阅源
 吉林卫视,http://183.220.107.138:4022/rtp/239.11.0.35:5140$订阅源
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
 江苏卫视,http://183.220.107.138:4022/rtp/239.11.0.76:5140$订阅源
-江苏卫视,http://60.13.52.236:65500/newlive/live/hls/20/live.m3u8$订阅源
-江苏卫视,http://60.13.52.236:65500/newlive/live/hls/20/live.m3u8$订阅源
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8$订阅源
+江西卫视,http://60.13.52.236:65500/newlive/live/hls/30/live.m3u8$订阅源
 江西卫视,http://60.13.52.236:65500/newlive/live/hls/30/live.m3u8$订阅源
 辽宁卫视,http://60.13.52.236:65500/newlive/live/hls/29/live.m3u8$订阅源
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8$订阅源
