@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-13 06:14:22,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$订阅源
+2025-12-13 18:13:43,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub$订阅源
@@ -15,12 +15,8 @@ CCTV-12,http://183.220.107.138:4022/rtp/239.11.0.113:5140$订阅源
 CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$订阅源
 CCTV-13,http://183.220.107.138:4022/rtp/239.11.0.24:5140$订阅源
 CCTV-14,http://183.220.107.138:4022/rtp/239.11.0.114:5140$订阅源
-CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8$订阅源
-CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8$订阅源
 CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140$订阅源
-CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8$订阅源
 CCTV-17,http://183.220.107.138:4022/rtp/239.11.0.107:5140$订阅源
-CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8$订阅源
 
 📡卫视频道,#genre#
 浙江卫视,http://183.220.107.138:4022/rtp/239.11.0.70:5140$订阅源
@@ -58,9 +54,8 @@ CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8$订阅源
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8$订阅源
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8$订阅源
 山东卫视,http://183.220.107.138:4022/rtp/239.11.0.73:5140$订阅源
-山东卫视,http://60.13.52.236:65500/newlive/live/hls/27/live.m3u8$订阅源
-山东卫视,http://60.13.52.236:65500/newlive/live/hls/27/live.m3u8$订阅源
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
+山西卫视,http://60.13.52.236:65500/newlive/live/hls/47/live.m3u8$订阅源
 山西卫视,http://60.13.52.236:65500/newlive/live/hls/47/live.m3u8$订阅源
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
 陕西卫视,http://183.220.107.138:4022/rtp/239.11.0.54:5140$订阅源
@@ -78,7 +73,7 @@ CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8$订阅源
 西藏卫视,http://60.13.52.236:65500/newlive/live/hls/45/live.m3u8$订阅源
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
 新疆卫视,http://183.220.107.138:4022/rtp/239.11.0.58:5140$订阅源
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
-云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
 云南卫视,http://183.220.107.138:4022/rtp/239.11.0.52:5140$订阅源
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
+云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8$订阅源
 云南卫视,http://60.13.52.236:65500/newlive/live/hls/43/live.m3u8$订阅源
